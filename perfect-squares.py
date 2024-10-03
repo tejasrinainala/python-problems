@@ -18,3 +18,9 @@ while(l<=u):
     l=l+1
     L.clear()
 print(F)
+
+
+#output
+#Enter lower range: 1
+#Enter upper range:10
+#[1,4,9]
