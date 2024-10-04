@@ -1,3 +1,17 @@
+# Random Sentence Generator
+
+# Description:
+# Generate a random sentence by combining random words from the given lists.
+# nouns = ["cat", "dog", "house", "car", "tree"]
+# verbs = ["runs", "jumps", "sleeps", "drives", "eats"]
+# adjectives = ["big", "small", "fast", "slow", "green"]
+# adverbs = ["quickly", "quietly", "happily", "slowly", "loudly"]'''
+
+
+
+
+
+
 import random
 nouns = ["cat", "dog", "house", "car", "tree"]
 verbs = ["runs", "jumps", "sleeps", "drives", "eats"]
