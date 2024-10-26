@@ -71,3 +71,46 @@ print("Total Cost                 = ", total_cost)
 print("GST Charges             = ", round(gst, 2))
 print("-----------------------------------------")
 print("Net Amount Payable   = ", round(net_amount, 2))
+
+
+
+
+
+
+
+
+
+
+# output:
+# Pizza Categories
+# 1.Normal
+# 2.Deluxe
+# Enter your Choice [1 or 2]: 2
+
+# Pizza Types
+# 1.Veg
+# 2.Non Veg
+# Enter your Choice [1 or 2]: 2
+
+# Extra Cheese? [1.Yes or 2.NO]: 1
+# Extra Topping? [1.Yes or 2.NO]: 1
+# Do you want Water Bottles? [1.Yes or 2.NO]: 1
+# Do you want Ketchup? [1.Yes or 2.NO]: 1
+# How many Packets? : 2
+# Do you want Soft Drinks? [1.Yes or 2.NO]: 1
+# Is it a Take Away? [1.Yes or 2.NO]: 2
+
+# -----------------------------------------
+# ***** Pizza Bill Generator *****
+# -----------------------------------------
+# Base Price                =  800
+# Extra Cheese            =  100
+# Extra Toppings         =  100
+# Water Bottle            =  20
+# Ketchup Packets       =  10
+# Soft Drinks              =  75
+# -----------------------------------------
+# Total Cost                 =  1105
+# GST Charges             =  198.9
+# -----------------------------------------
+# Net Amount Payable   =  1303.9
