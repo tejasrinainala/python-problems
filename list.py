@@ -1,3 +1,6 @@
+#printing only the numbers that are doubles of the numbers in list1
+
+
 list1=[2,3,4,5,6]
 list2=[4,8,10,20,18]
 list3=[]
