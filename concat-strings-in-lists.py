@@ -11,3 +11,5 @@ while(x<len(list1)):
 print(list3)
 
         
+# output:
+# ['monday', 'january', 'apple', 'panda']
