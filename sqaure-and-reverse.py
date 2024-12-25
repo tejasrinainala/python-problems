@@ -16,3 +16,13 @@ for num in list1:
 revlist.reverse()
 
 print("Reversed list of squares:", revlist)
+
+
+# output:
+# Enter a number (or press Enter to stop): 2
+# Enter a number (or press Enter to stop): 3
+# Enter a number (or press Enter to stop): 4
+# Enter a number (or press Enter to stop): 5
+# Enter a number (or press Enter to stop): 6
+# Enter a number (or press Enter to stop): 
+# Reversed list of squares: [36, 25, 16, 9, 4]
