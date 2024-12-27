@@ -8,3 +8,11 @@ for i in range(n):
 print(string)
     
     
+# output:
+# 5
+# Enter a number: 65
+# Enter a number: 66
+# Enter a number: 67
+# Enter a number: 68
+# Enter a number: 90
+# ABCDZ
