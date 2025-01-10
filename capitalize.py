@@ -24,3 +24,7 @@ obj.inputText()
 output = obj.displayCharCap()
 print("Result:", output)
 
+
+# output:
+# Enter text: hello world
+# Result: HellO WorlD
