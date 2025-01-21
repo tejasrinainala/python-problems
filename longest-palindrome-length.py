@@ -1,3 +1,13 @@
+#print the factorial of the length of the longest palindrome in a given string.
+
+
+
+
+
+
+
+
+
 import math
 phrase="aa abb xyxz xyyx abxba"
 str_list=phrase.split(' ')
