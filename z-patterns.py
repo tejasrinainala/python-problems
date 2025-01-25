@@ -10,3 +10,14 @@ for i in range(1,n+1):
             print(" ",end=" ")
     print()
     
+
+
+
+# output:
+# Z O H O C O R 
+#           P   
+#         O     
+#       R       
+#     A         
+#   T           
+# I O N T E A M 
