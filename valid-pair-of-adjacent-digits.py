@@ -1,3 +1,13 @@
+# Input: s = "2523533"
+
+# Output: "23"
+
+# Explanation:
+
+# Digit '2' appears 2 times and digit '3' appears 3 times. Each digit in the pair "23" appears in s exactly as many times as its numeric value. Hence, the output is "23".
+
+
+
 class Solution:
     def findValidPair(self, s: str) -> str:
         l=0
