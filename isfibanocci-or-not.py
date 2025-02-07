@@ -10,3 +10,9 @@ def is_fibonacci(n):
 
 n = int(input("Enter a number: "))
 print(is_fibonacci(n))
+
+
+
+# output:
+# Enter a number: 5
+# True
