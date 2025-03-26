@@ -8,5 +8,5 @@ def is_perfect_square(number):
   return sqrt_num == int(sqrt_num)
 
 # Example usage
-print(is_perfect_square(16))  # Output: True
+print(is_perfect_square(9))  # Output: True
 print(is_perfect_square(15))  # Output: False
