@@ -9,7 +9,7 @@ for i in range(5):
             print(chr(k1),end=" ")
             k1+=1
             if i!=0:
-                k2+=2
+                k2+=1
         else:
             print(chr(k2),end=" ")
             k2+=1
@@ -21,5 +21,5 @@ for i in range(5):
 # A 
 # b c 
 # D E F 
-# j k l m 
-# K L M N O 
+# g h i j 
+# K L M N O
