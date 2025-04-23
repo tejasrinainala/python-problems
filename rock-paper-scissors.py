@@ -1,3 +1,7 @@
+#rock paper and scissors with computer.
+
+
+
 import random
 choices=['rock','paper','scissors']
 comp=random.choice(choices)
