@@ -1,3 +1,7 @@
+#finding second largest element
+
+
+
 a = list(map(int, input().split()))  # Take space-separated integers as input
 
 a = list(set(a))  # Remove duplicates
