@@ -9,11 +9,8 @@
 # Input: nums = [2,2,1]
 
 # Output: 1
-
-
-class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
-        result = 0
-        for num in nums:
-            result ^= num
-        return result
+def singleNumber(self, nums: List[int]) -> int:
+     result = 0
+     for num in nums:
+         result ^= num
+     return result
