@@ -1,3 +1,7 @@
+#finding the index of the pivot element.
+
+
+
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
         total_sum = sum(nums)
