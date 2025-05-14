@@ -23,6 +23,5 @@ print("Reversed list of squares:", revlist)
 # Enter a number (or press Enter to stop): 3
 # Enter a number (or press Enter to stop): 4
 # Enter a number (or press Enter to stop): 5
-# Enter a number (or press Enter to stop): 6
 # Enter a number (or press Enter to stop): 
-# Reversed list of squares: [36, 25, 16, 9, 4]
+# Reversed list of squares: [25, 16, 9, 4]
