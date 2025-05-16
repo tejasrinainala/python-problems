@@ -1,3 +1,6 @@
+#automorphic number
+
+
 num = int(input())
 numsq = num * num
 
