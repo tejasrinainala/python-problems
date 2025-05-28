@@ -1,5 +1,4 @@
 
-
 class Solution:
     def numOfSubarrays(self, arr: List[int]) -> int:
         MOD = 10**9 + 7
