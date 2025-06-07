@@ -18,3 +18,6 @@
             else:
                 res.append(str(i))
         return res
+# output:
+# Example:
+# ["1","2","Fizz"]
