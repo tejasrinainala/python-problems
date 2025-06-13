@@ -16,3 +16,7 @@ class Solution:
             return False
         else:
             return False
+# Example:
+# word="hello world"
+# output:
+# True
